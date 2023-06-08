@@ -1,2 +1,5 @@
 # stepik_auto_tests_course
-stepik_auto_tests_course - Первый коммит
+
+Всем привет)
+Это первый репозиторий для курса Автоматизация тестирования с помощью Selenium и Python (https://stepik.org/course/575)
+
